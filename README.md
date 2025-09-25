@@ -19,16 +19,31 @@
 </a>
 <a href="https://www.zaproxy.org" target="_blank" rel="noreferrer">
   <img src="https://commons.wikimedia.org/wiki/Special:FilePath/OWASP_ZAP_logo.svg" alt="OWASP ZAP" width="40" height="40" />
-</a>
 <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/BurpSuite_Comunity_Edition.svg" alt="Burp Suite" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/burpsuite/FF6633" 
+       alt="Burp Suite" width="40" height="40" />
 </a>
+  <!-- Invicti/Netsparker - ใช้ Simple Icons -->
 <a href="https://www.invicti.com/products/netsparker/" target="_blank" rel="noreferrer">
-  <img src="https://www.invicti.com/wp-content/uploads/2020/06/netsparker-logo.png" alt="Netsparker / Invicti" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/invicti/FF6633" alt="Invicti" width="40" height="40" />
 </a>
+
+<!-- Zeek - ใช้ทางเลือกอื่น -->
 <a href="https://zeek.org" target="_blank" rel="noreferrer">
-  <img src="https://zeek.org/marks-and-logos/" alt="Zeek" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/10297762?s=200&v=4" alt="Zeek" width="40" height="40" />
 </a>
+<!-- ทางเลือกสำหรับ MISP -->
 <a href="https://www.misp-project.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/MISP/intelligence-icons/master/icons/misp-logo.svg" alt="MISP" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/MISP/MISP/2.4/app/webroot/img/misp-logo.png" alt="MISP" width="40" height="40" />
+</a>
+
+<h3 align="left">System:</h3>
+<a href="https://www.kernel.org" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux (Tux)" width="40" height="40">
+</a>
+<a href="https://www.kali.org" target="_blank" rel="noreferrer">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Kali-dragon-icon.svg" alt="Kali Linux" width="40" height="40">
+</a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/UbuntuCoF.svg" alt="Ubuntu" width="40" height="40">
 </a>
