@@ -23,16 +23,15 @@
   <img src="https://cdn.simpleicons.org/burpsuite/FF6633" 
        alt="Burp Suite" width="40" height="40" />
 </a>
-  <!-- Invicti/Netsparker - ใช้ Simple Icons -->
+
 <a href="https://www.invicti.com/products/netsparker/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.simpleicons.org/invicti/FF6633" alt="Invicti" width="40" height="40" />
+  <img src="https://avatars.githubusercontent.com/u/2313078?s=280&v=4" alt="Netsparker / Invicti" width="40" height="40" />
 </a>
 
-<!-- Zeek - ใช้ทางเลือกอื่น -->
 <a href="https://zeek.org" target="_blank" rel="noreferrer">
-  <img src="https://avatars.githubusercontent.com/u/10297762?s=200&v=4" alt="Zeek" width="40" height="40" />
+  <img src="https://i0.wp.com/zeek.org/wp-content/uploads/2021/01/zeek-logo-blue-black-rgb-horizontal.png?resize=275%2C91&ssl=1" alt="Zeek" width="40" height="40" />
 </a>
-<!-- ทางเลือกสำหรับ MISP -->
+
 <a href="https://www.misp-project.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/MISP/MISP/2.4/app/webroot/img/misp-logo.png" alt="MISP" width="40" height="40" />
 </a>
